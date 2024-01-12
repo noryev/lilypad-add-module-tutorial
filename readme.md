@@ -7,7 +7,7 @@ This tutorial will guide you through the process of adding a Docker-based AI mod
 Before you begin, make sure you have the following prerequisites:
 
 - Docker installed on your local machine
-- A Lilypad.network account
+- A Lilypad.network testnet eth located (here)[https://docs.lilypadnetwork.org/lilypad-aurora-testnet/quick-start/funding-your-wallet-from-faucet]
 
 ## Step 1: Create your own Module Repository
 
