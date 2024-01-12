@@ -11,4 +11,4 @@ Before you begin, make sure you have the following prerequisites:
 
 ## Step 1: Clone the Lilypad Repository
 
-First, clone the Lilypad repository to your local machine:
+First, create your own repository for your project to use with the lilypad network.
