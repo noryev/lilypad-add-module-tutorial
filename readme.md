@@ -9,6 +9,8 @@ Before you begin, make sure you have the following prerequisites:
 - Docker installed on your local machine
 - A Lilypad.network account
 
-## Step 1: Clone the Lilypad Repository
+## Step 1: Create your own Module Repository
 
-First, create your own repository for your project to use with the lilypad network.
+First, create your own repository for your module to use with the Lilypad network. Ill use Github.
+
+
